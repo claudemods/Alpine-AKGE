@@ -85,14 +85,15 @@ Example dd command: sudo dd if=/home/spitfire/Downloads/backup_20250518.img of=/
 </div>
 
 <div align="center">
-Login as root since my home files won't exist until you execute the .sh in /opt........ and reboot
+Login as root since my home files won't exist until you execute the .sh........ and reboot
 </div>
 
 
 </div>
 
 <div align="center">
-Navigate to /opt/btrfs-installer/drive1and2 and execute btrfsgenfstabcompressed.sh 
+in v1.0 fstab wasnt generated in cloning process its something i will add into my cloner next
+but  Navigate to https://github.com/claudemods/BtrfsGenfstab download btrfsfstabcompressedalpine.sh and execute
 </div>
 
 <div align="center">
