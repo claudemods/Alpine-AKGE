@@ -93,7 +93,8 @@ Login as root since my home files won't exist until you execute the .sh........ 
 
 <div align="center">
 in v1.0 fstab wasnt generated in cloning process its something i will add into my cloner next
-but  Navigate to https://github.com/claudemods/BtrfsGenfstab download btrfsfstabcompressedalpine.sh and execute
+ 
+but Navigate to https://github.com/claudemods/BtrfsGenfstab download btrfsfstabcompressedalpine.sh and execute
 </div>
 
 <div align="center">
