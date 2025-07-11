@@ -71,7 +71,7 @@
 ## Installation Methods
 
 <div align="center">
-simply for now dd to ssd/hdd 
+simply dd to ssd/hdd 
 <div align="center">
 
 </div>
