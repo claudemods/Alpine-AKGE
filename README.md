@@ -23,7 +23,7 @@
     <img alt="Homepage" src="https://i.postimg.cc/Hs2vbbZ8/Deep-Seek-Homepage.png" style="height: 30px; width: auto;">
   </a>
 
-[![Version](https://github.com/claudemods/SpitFireAKGE/releases/tag/v1.0-11-07-2025)
+[![Version](https://github.com/claudemods/SpitFireAKGE/releases/tag/v1.0-11-07-2025)]
 
 ##  [Click Here For Photos](https://github.com/claudemods/SpitFireAKGE/tree/main/Photos)
 
