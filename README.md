@@ -25,7 +25,7 @@
 
 [![Version]()
 
-##  [Click Here For Photos](https://github.com/claudemods/SpitFireCKGE/tree/main/Photos)
+##  [Click Here For Photos](https://github.com/claudemods/SpitFireAKGE/tree/main/Photos)
 
 
 ## SpitFire Alpine Kde Gamer's Edition! 🎮
